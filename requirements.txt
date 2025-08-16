@@ -1,5 +1,5 @@
-pandas
+streamlit
 numpy
-matplotlib
 tensorflow
-keras
+opencv-python
+streamlit-drawable-canvas
