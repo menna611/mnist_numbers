@@ -27,4 +27,3 @@ You can visualize sample predictions and training curves in the notebook.
 
 
 
-*Feel free to modify this README for your
